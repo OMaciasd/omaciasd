@@ -1,19 +1,19 @@
-# 👋 Hello, I'm oscar Macias
+# 👋 Hello, I'm Oscar Macias
 
 ![image](https://github.com/user-attachments/assets/31f2d0b0-bfb0-43e6-8730-088517576901)
 
 
-🛠️ I'm a Site Reliability Engineer (SRE), which is just a fancy way of saying I make sure things don’t break (🤞too often). With over ten years of experience keeping the infrastructure ⚙️, automation 🤖, and observability 👀 train on the rails 🚂, my mission is to help teams deploy 🚀 and maintain rock-solid 💪 applications in production—because nothing says excitement like a system that just works 🎉.
+🛠️ I'm a **Site Reliability Engineer (SRE)**, which is just a fancy way of saying I make sure things don’t break (🤞too often). With over **ten years of experience keeping the infrastructure ⚙️, automation 🤖, and observability 👀 train on the rails** 🚂, my mission is to help teams deploy 🚀 and maintain rock-solid 💪 applications in production—because nothing says excitement like a system that just works 🎉.
 
 ## 🚀 Technical Skills
-- ☁️ **Cloud:** Azure, OCI, IBM Cloud, AWS, GCP, Huawei.
 - 🗄️ **Databases:** PostgreSQL, MongoDB, SQL Server, MySQL, MariaDB, Hadoop.
 - 🐚 **Languages:** 🐍 Python, Bash, 🐹 Go, Groovy, Java, C#, Javascript, HTML, CSS.
-- ☸️  **Containers & Orchestrators:** 🐳 Docker, Kubernetes, OpenShift, Rancher, Kafka, RabbitMQ.
-- 📜 **Infrastructure as Code:** Terraform, ⚙️ Ansible, Pulumi, Vagrant, Chef, Puppet, Saltstack, Capistrano.
-- 🖥️ **Operating Systems:** 🐧 Linux (Ubuntu, CentOS), Windows Server, MacOS, Unix (Solaris), Cisco, Mikrotik, Ruckus.
+- ☁️ **Cloud:** Azure, OCI, IBM Cloud, AWS, GCP, Huawei, Hungsom, cPanel, Digital Ocean.
+- ☸️  **Containers & Orchestrators:** 🐳 Docker, Kubernetes, OpenShift, Rancher, Kafka, RabbitMQ, Helm.
+- 📜 **Infrastructure as Code:** Terraform, ⚙️ Ansible, Pulumi, Vagrant, Chef, Puppet, Saltstack, Capistrano, OpenTofu.
 - 📊 **Monitoring & Observability:** Prometheus, Grafana, Dynatrace, ELK Stack, Loki, Zepkin, AppDynamics, KIO Prophecy.
-- 🔄 **CI/CD:** Jenkins, GitLab CI, Azure DevOps, GitHub Actions, BitBucket Pipelines, ArgoCD, Snik, Cherkmarx, Veracode, Sonar, Artifactory, JMetter.
+- 🔄 **CI/CD:** Jenkins, GitLab CI, Azure DevOps, GitHub Actions, BitBucket Pipelines, ArgoCD, Snik, Cherkmarx, Veracode, Sonar, Artifactory, JMetter, Crossplaine.
+- 🖥️ **Operating Systems:** 🐧 Linux (Ubuntu, CentOS), Windows Server, MacOS, Unix (Solaris), Cisco, Mikrotik, Ruckus, VmWare, OpenStack, Citrix, Proxmox, Fortinet.
 
 ## 🌟 Highlighted Projects
 
