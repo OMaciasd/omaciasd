@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/31f2d0b0-bfb0-43e6-8730-088517576901)
 
 
-🛠️ I'm a **Site Reliability Engineer (SRE)**, which is just a fancy way of saying I make sure things don’t break (🤞too often). With over **ten years of experience keeping the infrastructure ⚙️, automation 🤖, and observability 👀 train on the rails** 🚂, my mission is to help teams deploy 🚀 and maintain rock-solid 💪 applications in production—because nothing says excitement like a system that just works 🎉.
+🛠️ As a **Site Reliability Engineer (SRE)**, which is just a fancy way of saying I make sure things don’t break (🤞too often). With over **ten years of experience keeping the infrastructure ⚙️, automation 🤖, and observability 👀 train on the rails** 🚂, my mission is to help teams deploy 🚀 and maintain rock-solid 💪 applications in production—because nothing says excitement like a system that just works 🎉.
 
 ## 🚀 Technical Skills
 - 🗄️ **Databases:** PostgreSQL, MongoDB, SQL Server, MySQL, MariaDB, Hadoop.
