@@ -175,6 +175,5 @@
 ## 📫 Contact 📬
 
 - 🔗 LinkedIn: [omaciasd](https://www.linkedin.com/in/omaciasd)  
-- 📧 Email: [omaciasnarvaez@gmail.com](mailto:omaciasnarvaez@gmail.com) 
 
 ---
