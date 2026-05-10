@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31f2d0b0-bfb0-43e6-8730-088517576901" alt="Oscar Macias Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/OMaciasd/omaciasd/main/banner-sre.png" alt="Oscar Macias SRE Banner" width="100%">
 </p>
 
 ---
